@@ -1,0 +1,16 @@
+# Exclude object files
+*.o
+
+# Exclude the executable
+task
+
+# Exclude other temporary or build files
+*.exe
+*.out
+*.log
+
+# Exclude the .vscode folder
+.vscode/
+
+# exclude the build directory
+build/
