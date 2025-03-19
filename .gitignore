@@ -11,6 +11,8 @@ task
 
 # Exclude the .vscode folder
 .vscode/
+ # Exlude the .vs folder
+.vs/
 
 # exclude the build directory
 build/
