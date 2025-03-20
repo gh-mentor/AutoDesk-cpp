@@ -5,7 +5,6 @@
 - Use PascalCase for class names.
 - Use double quotes for strings.
 - Ensure all functions have Doxygen comments.
-- Ensure consistent indentation using 2 spaces.
 - Use 'm_' as a prefix for private and protected member variables.
 - Separate implementation and design by using header (`.h` or `.hpp`) and source (`.cpp`) files.
 - Favor composition over inheritance where possible.
